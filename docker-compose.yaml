@@ -3,5 +3,5 @@ services:
   touhid-latest-app:
     image: touhidjnu/react-app:latest
     ports:
-      - "9098:80"
+      - "9097:80"
     restart: always
